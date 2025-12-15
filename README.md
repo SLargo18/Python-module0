@@ -8,6 +8,7 @@ Python syntax and fundamentals, functions and return values, input and output ha
 
 ## 📂 Project Structure  
 module0/
+
 ├── ex0/ft_hello_garden.py  
 ├── ex1/ft_plot_area.py  
 ├── ex2/ft_harvest_total.py  
