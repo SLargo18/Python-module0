@@ -36,7 +36,7 @@ Move into the exercise directory and run the file with Python 3:
 python3 ft_file_name.py
 ```
 
-##`⚠️ Important`  
+`⚠️ Important`  
 To be able to execute the file directly from the console, remember to call the function at the end of the file, for example:
 
 ft_example_run()
