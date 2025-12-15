@@ -36,18 +36,18 @@ Move into the exercise directory and run the file with Python 3:
 python3 ft_file_name.py
 ```
 
-`⚠️ Important`  
+##`⚠️ Important`  
 To be able to execute the file directly from the console, remember to call the function at the end of the file, for example:
 
 ft_example_run()
 
 Without this function call, running the file will not produce any output.
 
-🎯 Goal  
+## 🎯 Goal  
 The goal of this module is to build a solid foundation in Python and prepare students for more advanced programming concepts and future projects at 42.
 
-📍 Language  
+## 📍 Language  
 Python 3
 
-🏫 School  
+## 🏫 School  
 42 Madrid
