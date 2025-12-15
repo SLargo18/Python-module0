@@ -1,12 +1,12 @@
-♻️ Python Module 0 – 42
+# Python Module 0 – 42
 
-📌 Description  
+## Description  
 Python Module 0 is an introductory project from 42 focused on learning the fundamentals of Python programming through small, practical exercises inspired by a community garden theme. The project introduces core Python concepts such as functions, loops, conditionals, recursion, input/output handling, and basic data types, encouraging clean code and logical thinking from the very beginning.
 
-🛠️ Skills Developed  
+## Skills Developed  
 Python syntax and fundamentals, functions and return values, input and output handling, conditional logic, loops (while and for), basic recursion, string manipulation, code structure, readability, and problem-solving.
 
-📂 Project Structure  
+## 📂 Project Structure  
 module0/
 ├── ex0/ft_hello_garden.py  
 ├── ex1/ft_plot_area.py  
@@ -18,7 +18,7 @@ module0/
 ├── ex6/ft_garden_summary.py  
 └── ex7/ft_seed_inventory.py  
 
-📘 Exercises Overview  
+## 📘 Exercises Overview  
 ex0 prints a welcome message for the garden community.  
 ex1 calculates the area of a garden plot.  
 ex2 sums the total harvest amount using user input.  
@@ -28,12 +28,14 @@ ex5 counts days until harvest using both iterative and recursive approaches.
 ex6 displays a formatted summary of garden information.  
 ex7 manages a seed inventory with type hints and controlled output formatting.
 
-⚙️ How to Run  
+## ⚙️ How to Run  
 Move into the exercise directory and run the file with Python 3:
 
+```bash
 python3 ft_file_name.py
+```
 
-⚠️ Important  
+`⚠️ Important`  
 To be able to execute the file directly from the console, remember to call the function at the end of the file, for example:
 
 ft_example_run()
