@@ -1,4 +1,5 @@
 def ft_seed_inventory(seed_type: str, quantity: int, unit: str) -> None:
+    """Prints the inventory of seeds"""
     seed_type = seed_type.capitalize()
     units = {
         "packets": "packets available",
